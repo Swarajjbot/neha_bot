@@ -225,7 +225,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ❖𝗝𝐎𝐈𝐍 🎬 - @INDORECINEMAS5 🍿
 
-💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/INDORECINEMAS5'>𝐈𝐍𝐃𝐎𝐑𝐄 𝐂𝐈𝐍𝐄𝐌𝐀𝐒🎭</a></b>""" 
+💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/INDORECINEMAS5'>𝐈𝐍𝐃𝐎𝐑𝐄 𝐂𝐈𝐍𝐄𝐌𝐀𝐒</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
