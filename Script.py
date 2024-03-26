@@ -224,7 +224,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 #IDRCINEMAS<b> #𝙉𝙤𝟏
  🎭𝙈𝙤𝙫𝙞𝙚𝙨 𝘼𝙣𝙙 𝙒𝙚𝙗  𝙎𝙚𝙧𝙞𝙚𝙨 𝙀𝙣𝙩𝙚𝙧𝙩𝙖𝙞𝙣𝙢𝙚𝙣𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡.
 
-❖𝗝𝐎𝐈𝐍 🌸 - @INDORECINEMAS5  
+❖𝗝𝐎𝐈𝐍 🌸 - 「 @INDORECINEMAS5 」  
 
 💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/INDORECINEMAS5'>𝙸𝙽𝙳𝙾𝚁𝙴 𝙲𝙸𝙽𝙴𝙼𝙰𝚂</a></b>""" 
 
