@@ -219,9 +219,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>{file_name}
+    CAPTION = """@INDORECINEMAS5🍿 <b>{file_name}
 
-<b>#𝙉𝙤𝟏
+@INDORECINEMAS5<b>#𝙉𝙤𝟏
  🎭𝙈𝙤𝙫𝙞𝙚𝙨 𝘼𝙣𝙙 𝙒𝙚𝙗  𝙎𝙚𝙧𝙞𝙚𝙨 𝙀𝙣𝙩𝙚𝙧𝙩𝙖𝙞𝙣𝙢𝙚𝙣𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡⚡.
 
 ❖𝗝𝐎𝐈𝐍 🎬 - @INDORECINEMAS5 🍿
