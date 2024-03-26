@@ -59,7 +59,7 @@ async def start(client, message):
                     InlineKeyboardButton('🍀 𝖩𝗈𝗂𝗇 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 🍀', callback_data='JoinUᴘᴅᴀᴛᴇs')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgQAAxkBAAJITmV9o8jwlk2sFkYen13yUB9KRftDAAL2EAACULvgU8SbYPGo146YHgQ") 
+        m=await message.reply_sticker("CAACAgIAAxkBAAJLoWYCXdwS5aq0Hquj-G_IvdvnTYHoAAJ3AQACIjeOBAAByoq1E8mVsTQE") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
