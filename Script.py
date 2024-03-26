@@ -219,7 +219,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """@INDORECINEMAS5🍿
+    CAPTION = """@INDORECINEMAS5
 {file_name}
 
 #IDRCINEMAS<b> #𝙉𝙤𝟏
@@ -227,7 +227,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ❖𝗝𝐎𝐈𝐍 🎬 - @INDORECINEMAS5 🍿
 
-💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/INDORECINEMAS5'>𝖨𝖭𝖣𝖮𝖱𝖤 𝖢𝖨𝖭𝖤𝖬𝖠𝖲</a></b>""" 
+💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/INDORECINEMAS5'>ɪɴᴅᴏʀᴇ ᴄɪɴᴇᴍᴀꜱ</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
