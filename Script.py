@@ -227,7 +227,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
  ⏤͟͞𝗝⌡𝗼𝗶𝗻 - @INDORECINEMAS5  
 
-💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/INDORECINEMAS5'>𝙸𝙽𝙳𝙾𝚁𝙴 𝙲𝙸𝙽𝙴𝙼𝙰𝚂</a></b>""" 
+💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/Idr_Autofilterbot'>𝙸𝙳𝚁 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃⚡</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
