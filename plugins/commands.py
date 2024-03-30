@@ -30,7 +30,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('🌸𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉🌸', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url="https://t.me/+jYUob_YqyK1lNWE1"),
+                    InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url="https://t.me/+cFYZKXDQ8vQ3YjE1"),
                     InlineKeyboardButton('🎬 channel', url='https://t.me/INDORECINEMAS5')
                 ],[
                     InlineKeyboardButton('🍀 𝖩𝗈𝗂𝗇 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 🍀', callback_data='CHNL_LNK')
@@ -51,7 +51,7 @@ async def start(client, message):
                     InlineKeyboardButton('🌸𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉🌸', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('𝖤𝖺𝗋𝗇 𝗆𝗈𝗇𝖾𝗒 💰', callback_data="shortlink_info"),
-                    InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾 𝗀𝗋𝗈𝗎𝗉 🍿', url="https://t.me/+jYUob_YqyK1lNWE1")
+                    InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾 𝗀𝗋𝗈𝗎𝗉 🍿', url="https://t.me/+cFYZKXDQ8vQ3YjE1")
                 ],[
                     InlineKeyboardButton('𝖧𝖾𝗅𝗉⚠️', callback_data='help'),
                     InlineKeyboardButton('𝖠𝖻𝗈𝗎𝗍💬', callback_data='about')
@@ -103,7 +103,7 @@ async def start(client, message):
                     InlineKeyboardButton('🌸𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉🌸', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('𝖤𝖺𝗋𝗇 𝗆𝗈𝗇𝖾𝗒 💰', callback_data="shortlink_info"),
-                    InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾 𝗀𝗋𝗈𝗎𝗉 🍿', url="https://t.me/+jYUob_YqyK1lNWE1")
+                    InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾 𝗀𝗋𝗈𝗎𝗉 🍿', url="https://t.me/+cFYZKXDQ8vQ3YjE1")
                 ],[
                     InlineKeyboardButton('𝖧𝖾𝗅𝗉⚠️', callback_data='help'),
                     InlineKeyboardButton('𝖠𝖻𝗈𝗎𝗍💬', callback_data='about')
