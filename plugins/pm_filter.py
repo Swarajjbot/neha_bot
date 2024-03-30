@@ -1289,7 +1289,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('🌸𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉🌸', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('𝖤𝖺𝗋𝗇 𝗆𝗈𝗇𝖾𝗒 💰', callback_data="shortlink_info"),
-                    InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾 𝗀𝗋𝗈𝗎𝗉 🍿', url="https://t.me/+jYUob_YqyK1lNWE1")
+                    InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾 𝗀𝗋𝗈𝗎𝗉 🍿', url="https://t.me/+cFYZKXDQ8vQ3YjE1")
                 ],[
                     InlineKeyboardButton('𝖧𝖾𝗅𝗉⚠️', callback_data='help'),
                     InlineKeyboardButton('𝖠𝖻𝗈𝗎𝗍💬', callback_data='about')
