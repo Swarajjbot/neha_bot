@@ -50,7 +50,9 @@ BUTTONS2 = {}
 SPELL_CHECK = {}
 # ENABLE_SHORTLINK = ""
 
-@Client.on_message(filters.private & filters.text & filters.incoming & filters.user(AUTH_USERS) if AUTH_USERS else filters.private & filters.text & filters.incoming)
+https://github.com/Jisshubot/neha_bot/blob/2fe31193374b655ec774579bc95096572c945008/plugins/pm_filter.py#L53
+
+@Client.on_message(filters.group & filters.text & filters.incoming) & filters.user(AUTH_USERS) if AUTH_USERS else filters.private & filters.text & filters.incoming)
 async def pv_filter(client, message):
     rk = await global_filters(client, message)
     if rk == False:
