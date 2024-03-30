@@ -6,9 +6,7 @@
 class script(object):
     START_TXT = """<b>HELLO...👋 {},💖
     
-𝖨'𝗆 𝖯𝗈𝗐𝖾𝗋𝖿𝗎𝗅 Mᴏᴠɪᴇ 𝖡𝗈𝗍
-𝖩𝗎𝗌𝗍 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇, 
-𝖳𝗁𝖺𝗍𝗌 𝖠𝗅𝗅, I 𝗐𝗂𝗅𝗅 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖬𝗈𝗏𝗂𝖾𝗌 𝖳𝗁𝖾𝗋𝖾...
+𝖮𝖭𝖫𝖸 𝖨𝖭𝖣𝖮𝖱𝖤 𝖢𝖨𝖭𝖤𝖬𝖠𝖲 𝖦𝖱𝖮𝖴𝖯 𝖬𝖤𝖬𝖡𝖤𝖱 𝖢𝖠𝖭 𝖴𝖲𝖤 𝖳𝖧𝖨𝖲 𝖡𝖮𝖳.....
 
 ❄️𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 ⚡@INDORECINEMAS5™⚡!!</b>"""
 
@@ -227,7 +225,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
  ⏤͟͞𝗝⌡𝗼𝗶𝗻 - @INDORECINEMAS5  
 
-💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/Idr_Autofilterbot'>𝙸𝙳𝚁 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃⚡</a></b>""" 
+💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/INDORECINEMAS5'>ɪɴᴅᴏʀᴇ ᴄɪɴᴇᴍᴀꜱ</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
